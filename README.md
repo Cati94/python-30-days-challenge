@@ -1,6 +1,6 @@
 # Python 30-Day Professional Challenge 🚀
 
-![Python Challenge Banner](banner.png)
+![Python Challenge Banner](https://github.com/Cati94/python-30-days-challenge/blob/main/Python%20for%2030%20Days%20challenge.png)
 
 **Level up your Python skills with 30 daily real-world exercises for professionals.**
 
