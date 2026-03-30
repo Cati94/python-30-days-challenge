@@ -101,6 +101,3 @@ Basic error handling
 Clean output formatting
 
 ---
-
-
-    main();
