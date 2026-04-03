@@ -1,0 +1,14 @@
+Goal
+
+Create a Python tool that:
+
+Validates email addresses
+Validates phone numbers
+Filters valid vs invalid inputs
+
+👉 This is used in:
+
+Web forms
+APIs
+Authentication systems
+Data cleaning pipelines

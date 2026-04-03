@@ -1,0 +1,6 @@
+test@example.com
+invalid-email
+user@domain.pt
++351912345678
+1234
++44 7700 900123
