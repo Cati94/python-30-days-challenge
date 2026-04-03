@@ -1,0 +1,14 @@
+Goal
+
+Create a Python tool that:
+
+Reads a large text file
+Cleans and normalizes text
+Counts word frequencies
+Identifies most common words
+
+👉 This is used in:
+
+Log analysis
+NLP preprocessing
+Data pipelines
