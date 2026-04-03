@@ -1,0 +1,8 @@
+Goal
+
+Analyze a server log file and produce:
+
+Unique IP addresses
+Most active IP
+Failed login attempts
+Suspicious IPs (too many failures).
