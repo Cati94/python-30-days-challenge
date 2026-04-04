@@ -1,0 +1,12 @@
+Build a Python tool that:
+
+Fetches data from a public API
+Parses JSON
+Filters and displays relevant data
+
+👉 This is core for:
+
+Backend development
+Data engineering
+Automation scripts
+Cybersecurity tooling
